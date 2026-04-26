@@ -1,6 +1,8 @@
 # static.py
 
-HTML = """test"""
+HTML = """
+Arma virumque cano, Troiae qui primus ab oris Italiam fato profugus Laviniaque venit litora, multum ille et terris iactatus et alto
+"""
 <!DOCTYPE html>
 <html>
 <head>
