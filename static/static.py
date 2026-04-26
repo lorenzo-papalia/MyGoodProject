@@ -1,6 +1,6 @@
 # static.py
 
-HTML = """
+HTML = """test"""
 <!DOCTYPE html>
 <html>
 <head>
